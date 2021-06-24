@@ -1,2 +1,2 @@
-age=input()
-print('hello',age)
+age=input('请输入：')
+print('你好',age)
